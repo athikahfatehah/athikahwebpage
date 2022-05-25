@@ -1,1 +1,1 @@
-This is the first webpage that I ever explore
+This is the first webpage that I ever wrote
